@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size:40px;
+}
+.gold-highlight{
+    color:gold;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+}
+.half-width img{
+    width:100%;
+}
